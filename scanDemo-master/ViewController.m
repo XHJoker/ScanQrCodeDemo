@@ -18,6 +18,7 @@
 
 -(void)viewWillDisappear:(BOOL)animated{
     NSLog(@"appear");
+    NSLog(@"haha");
 }
 
 - (void)viewDidLoad {
